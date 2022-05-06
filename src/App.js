@@ -1,12 +1,12 @@
 // import logo from './logo.svg';
 import './App.css';
-// comment
+
 function App() {
   return (
     <div className="App">
-      <canvas width="600" height="400" style="border:1px solid #000000;">
+      {/* <canvas width="600" height="400" >
         Canvas could not be displayed
-      </canvas>
+      </canvas> */}
       {/* <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
