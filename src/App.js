@@ -15,6 +15,29 @@ function App() {
           Disabled
         </Nav.Link>
       </Nav>
+      
+      <div class="container">
+        <div class="row">
+          <div class="col">
+            1 of 2
+          </div>
+          <div class="col">
+            2 of 2g
+          </div>
+        </div>
+        <div class="row">
+          <div class="col">
+            1 of 3
+          </div>
+          <div class="col">
+            2 of 3
+          </div>
+          <div class="col">
+            3 of 3
+          </div>
+        </div>
+      </div>
+
       <header className="App-header">
         <button type="button" id="button">Matt's Button</button>
       </header>
